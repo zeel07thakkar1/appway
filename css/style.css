@@ -643,11 +643,14 @@ img {
   left: 0px;
   top: 0px;
   width: 100%;
-  background-color: var(--magenta);
+  
   height: auto;
   padding: 30px 0px;
 }
-
+.other_page_menu
+{
+  background-color: var(--magenta);
+}
 .main-header .outer-container .logo-box .logo{
   position: relative;
   /* padding: 64px 0px 30px 0px; */
